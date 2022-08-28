@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70618890260",
+    "project_id": "app-janek",
+    "storage_bucket": "app-janek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70618890260:android:2440a64b621cddfee6a701",
+        "android_client_info": {
+          "package_name": "com.example.app_janek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70618890260-ab408gsl0bphgokce6i3bk8q85o0h7o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxVBnLF2wChCYoyVI8cGmahkyy50vNrNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70618890260-ab408gsl0bphgokce6i3bk8q85o0h7o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
